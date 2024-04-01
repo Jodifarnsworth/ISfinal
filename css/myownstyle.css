@@ -1,0 +1,17 @@
+body{
+   color: black;
+}
+ul{
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+ol{
+    font-weight:bold ;
+}
+.underline{
+    text-decoration: underline;
+}
+.justify{text-align: justify;}
